@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"build": "tsc",
-		"start": "node ./dist/application.js"
+		"start": "node ./build/application.js"
 	},
 	"engines": {
 		"node": "18.x"
